@@ -35,3 +35,5 @@ export const PersonScreen = ({ route, navigation }: Props ) => {
     </View>
   );
 };
+
+
